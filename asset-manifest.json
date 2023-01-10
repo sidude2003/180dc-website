@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/180dc-website/static/css/main.93109642.css",
+    "main.js": "/180dc-website/static/js/main.b1f0c1e3.js",
+    "static/js/787.f509a321.chunk.js": "/180dc-website/static/js/787.f509a321.chunk.js",
+    "index.html": "/180dc-website/index.html",
+    "main.93109642.css.map": "/180dc-website/static/css/main.93109642.css.map",
+    "main.b1f0c1e3.js.map": "/180dc-website/static/js/main.b1f0c1e3.js.map",
+    "787.f509a321.chunk.js.map": "/180dc-website/static/js/787.f509a321.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.93109642.css",
+    "static/js/main.b1f0c1e3.js"
+  ]
+}
