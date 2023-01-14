@@ -1,5 +1,6 @@
 import React from "react";
 import "./Navbar.css";
+//import "./Images/black180.png";
 
 function Navbar() {
   return (
@@ -7,7 +8,10 @@ function Navbar() {
       <nav className="navbar navbar-expand-sm navbar-light" id="neubar">
         <div className="container">
           <a className="navbar-brand" href="#">
-            <img src="download (1).png" height="60" />
+            <img
+              src={`${process.env.PUBLIC_URL}/download (1).png`}
+              height="60"
+            />
           </a>
           <button
             className="navbar-toggler"
