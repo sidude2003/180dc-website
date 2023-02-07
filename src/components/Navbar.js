@@ -5,7 +5,10 @@ import "./Navbar.css";
 function Navbar() {
   return (
     <>
-      <nav className="navbar navbar-expand-sm navbar-light" id="neubar">
+      <nav
+        className="navbar navbar-expand-sm navbar-light navbar-fixed"
+        id="neubar"
+      >
         <div className="container">
           <a className="navbar-brand" href="#">
             <img
@@ -44,6 +47,11 @@ function Navbar() {
               <li className="nav-item">
                 <a className="nav-link mx-2 text-light" href="#">
                   Projects
+                </a>
+              </li>
+              <li className="nav-item">
+                <a className="nav-link mx-2 text-light" href="#">
+                  Blog
                 </a>
               </li>
               <li className="nav-item dropdown">
