@@ -6,6 +6,7 @@ import SimpleImageSlider from "react-simple-image-slider";
 import AboutUs from "./components/AboutUs";
 import Slider from "./components/Slider";
 import HeroSlider, { Slide, Nav, AutoplayButton, Overlay } from "hero-slider";
+//import OurServices from "./components/OurServices";
 const StyledOverlayContainer = styled(Overlay)`
   &&& {
     display: flex;
